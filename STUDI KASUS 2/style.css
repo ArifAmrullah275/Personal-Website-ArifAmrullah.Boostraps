@@ -1,0 +1,16 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #69cfb0;
+}
+
+.jumbotron h1, p {
+    font-family: Times New Roman;
+}
+
+#projects {
+    background-color: #69cfb0;
+}
+
+section {
+    padding-top: 5rem;
+}
